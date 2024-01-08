@@ -15,6 +15,5 @@ We care foi meu primeiro projeto na área de programação feito com o auxilio d
 
 - Responsividade
 
-<br>
-- Responsividade
+
 
