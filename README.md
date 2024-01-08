@@ -12,5 +12,10 @@ We care foi meu primeiro projeto na área de programação feito com o auxilio d
 - Html
 
 - Css
+<<<<<<< HEAD
 
 - Responsividade
+=======
+<br>
+- Responsividade
+>>>>>>> ec8938d246b6314665460aa3788854e170179d14
