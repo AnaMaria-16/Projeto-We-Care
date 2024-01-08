@@ -9,7 +9,5 @@ We care foi meu primeiro projeto na área de programação feito com o auxilio d
 
 <h3> TECNOLOGIAS UTILIZADAS:</h3>
 - Html
-<br>
 - Css
-<br>
- - Responsividade
+- Responsividade
