@@ -8,8 +8,9 @@ Esse é um projeto desenvolvido para um Petshop, nesta página contém diversas 
 We care foi meu primeiro projeto na área de programação feito com o auxilio do professor Rodolfo Mori, nele coloquei em prática meu aprendizado de HTML e CSS. Após aprender sobre responsividade retornei e esse projeto, uni e aperferfeiçoei para que ele pudesse ser ajustado para outros despositivos como smartphone.
 
 <h3> TECNOLOGIAS UTILIZADAS:</h3>
+
 - Html
-<br>
+
 - Css
-<br>
- - Responsividade
+
+- Responsividade
